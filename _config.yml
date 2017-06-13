@@ -1,8 +1,8 @@
 ### Site info:
 title: Caries
-tagline: Análisis de productos y accesorios MP3
+tagline: Qué es y tratamiento de la caries
 title: "Caries"
-description: "Análisis de los mejores productos y accesorios MP3 actualmente en venta." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Análisis de la enfermedad bucodental caries y como podemos frenarla lo antes posible" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 
 
 url: "http://lacaries.com.es" # the base hostname & protocol for your site
@@ -36,7 +36,7 @@ default_locale: "en" # blog sidebar language set, only include: English(en) and 
 Blogroll:
     - name: Caries
       href: http://lacaries.com.es
-      title: Analisis de productos y accesorios MP3
+      title: Qué es y tratamiento de la caries
 
 
 
