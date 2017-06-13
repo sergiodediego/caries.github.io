@@ -1,0 +1,51 @@
+### Site info:
+title: Caries
+tagline: Análisis de productos y accesorios MP3
+title: "Caries"
+description: "Análisis de los mejores productos y accesorios MP3 actualmente en venta." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+
+
+url: "http://lacaries.com.es" # the base hostname & protocol for your site
+
+locales:
+    en:
+     
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Copyright_Notice: "Copyright Notice"
+      Resent_Posts: "Últimos artículos"
+      
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"  
+      PostDate: "on "
+
+
+
+
+
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
+
+
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+    - name: Caries
+      href: http://lacaries.com.es
+      title: Analisis de productos y accesorios MP3
+
+
+
+
+### Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 1
+
+
+
