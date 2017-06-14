@@ -25,6 +25,16 @@ La visita al dentista dependerá del precio y la confianza que pueda tener cada 
  - Sistema de limpieza Oral-B OxyJet (106 €): Sistema de limpieza irrigador junto con un cepillo eléctrico recargable, ideal para una limpieza bucal diaria a fondo ayudando a eliminar la práctica totalidad de la placa que se genera en nuestra boca. De venta online en [Amazon España](http://amzn.to/2nT1vUL)
   
  
+ <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Caries_post -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1902267523620793"
+     data-ad-slot="4152543068"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+ 
  Si aún así el odontólogo te detecta alguna caries, dependiendo del daño sufrido o el área afectada realizará uno u otro tratamiento:
 
  - Empaste: es el más común, se trata de una obturación dental en la que se elimina la infección resultante de la caries, se limpia la zona y se rellena con una amalgama dental formada por plata y mercurio o por una composición de resina de un color más parecido al del diente. Según la visibilidad del empaste se suele decidir por un material u otro.
