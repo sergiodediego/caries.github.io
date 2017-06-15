@@ -1,14 +1,8 @@
 ### Site info:
-title: Caries
-<<<<<<< HEAD
-tagline: Qué es y tratamiento de la caries
-title: "Caries"
-description: "Análisis de la enfermedad bucodental caries y como podemos frenarla lo antes posible" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-=======
 tagline: Análisis y tratamiento de la caries
 title: "Caries"
 description: "Análisis y tratamiento de la enfermedad bucodental más común, la caries." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
->>>>>>> master
+
 
 
 url: "http://lacaries.com.es" # the base hostname & protocol for your site
@@ -43,11 +37,8 @@ default_locale: "en" # blog sidebar language set, only include: English(en) and 
 Blogroll:
     - name: Caries
       href: http://lacaries.com.es
-<<<<<<< HEAD
-      title: Qué es y tratamiento de la caries
-=======
       title: Análisis y tratamiento de la caries
->>>>>>> master
+
 
 
 
